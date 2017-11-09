@@ -9,7 +9,10 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
-
+{
+    //定义一个图片对象
+    UIImageView *imageView;
+}
 
 @end
 
